@@ -1,0 +1,79 @@
+{
+  "Employees": [
+    {
+      "firstName": "nkateko",
+      "lastName": "ngwasheng",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "firstName": "mbewu",
+      "lastName": "sithole"
+    },
+    {
+      "id": "3",
+      "firstName": "solomon",
+      "lastName": "spencer"
+    },
+    {
+      "id": "4",
+      "firstName": "nomatshidiso",
+      "lastName": "msimanga"
+    },
+    {
+      "id": "5",
+      "firstName": "joreto",
+      "lastName": "uphuthu"
+    },
+    {
+      "id": "6",
+      "firstName": "sandile",
+      "lastName": "mahlangu"
+    },
+    {
+      "id": "7",
+      "firstName": "lindani",
+      "lastName": "majola"
+    },
+    {
+      "id": "8",
+      "firstName": "nathi",
+      "lastName": "nathinice"
+    },
+    {
+      "id": "9",
+      "firstName": "gugulethu",
+      "lastName": "khoza"
+    },
+    {
+      "id": "10",
+      "firstName": "shirly",
+      "lastName": "maduna"
+    },
+    {
+      "id": "11",
+      "firstName": "isaac",
+      "lastName": "mahlangu"
+    },
+    {
+      "id": "12",
+      "firstName": "nontobeko",
+      "lastName": "buthelezi"
+    },
+    {
+      "id": "13",
+      "firstName": "nkateko",
+      "lastName": "magwaza"
+    },
+    {
+      "id": "14",
+      "firstName": "phumzile",
+      "lastName": "motau"
+    },
+    {
+      "id": "15",
+      "firstName": "nonjabulo",
+      "lastName": "nkabinde"
+    }
+  ]
+}
